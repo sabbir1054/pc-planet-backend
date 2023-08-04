@@ -1,0 +1,402 @@
+{
+  "mice": [
+    {
+      "product_name": "Razer DeathAdder V2 Pro",
+      "imgUrl": "https://i.ibb.co/sVvrVFw/hades-m1-01-500x500.jpg",
+      "category": "Others",
+      "status": "In Stock",
+      "price": 129.99,
+      "description": "Wireless gaming mouse with Focus+ 20K DPI Optical Sensor",
+      "key_features": {
+        "brand": "Razer",
+        "model": "DeathAdder V2 Pro",
+        "dpi_range": "20,000 DPI",
+        "tracking_method": "Optical",
+        "polling_rate": "1000Hz",
+        "buttons": "8 programmable buttons",
+        "scroll_wheel": "Tactile",
+        "connectivity": "Wireless (2.4GHz)",
+        "special_features": "Razer Speedflex Cable, Razer Optical Mouse Switches"
+      },
+      "individual_rating": 4.8,
+      "average_rating": 4.7,
+      "reviews": [
+        {
+          "username": "gamerpro123",
+          "rating": 4.9,
+          "comment": "Perfect wireless performance for gaming."
+        },
+        {
+          "username": "techenthusiast55",
+          "rating": 4.7,
+          "comment": "The 20K DPI sensor is incredibly precise."
+        }
+      ]
+    },
+    {
+      "product_name": "Logitech G Pro Wireless",
+      "imgUrl": "https://i.ibb.co/xmv62w4/ms1017-01-500x500.jpg",
+      "category": "Others",
+      "status": "In Stock",
+      "price": 149.99,
+      "description": "Professional-grade wireless gaming mouse with HERO 25K DPI sensor",
+      "key_features": {
+        "brand": "Logitech",
+        "model": "G Pro Wireless",
+        "dpi_range": "25,600 DPI",
+        "tracking_method": "Optical",
+        "polling_rate": "1000Hz",
+        "buttons": "8 programmable buttons",
+        "scroll_wheel": "Tactile",
+        "connectivity": "Wireless (LIGHTSPEED)",
+        "special_features": "Ambidextrous design, PowerPlay wireless charging"
+      },
+      "individual_rating": 4.9,
+      "average_rating": 4.8,
+      "reviews": [
+        {
+          "username": "gamingenthusiast123",
+          "rating": 4.8,
+          "comment": "Excellent wireless performance for competitive gaming."
+        },
+        {
+          "username": "pcbuilderpro789",
+          "rating": 4.9,
+          "comment": "Perfect size and weight for precise aiming."
+        }
+      ]
+    },
+    {
+      "product_name": "SteelSeries Rival 600",
+      "imgUrl": "https://i.ibb.co/QDT5SHb/orion-500x500.jpg",
+      "category": "Others",
+      "status": "In Stock",
+      "price": 79.99,
+      "description": "Dual sensor gaming mouse with TrueMove3+ and customizable weights",
+      "key_features": {
+        "brand": "SteelSeries",
+        "model": "Rival 600",
+        "dpi_range": "12,000 DPI",
+        "tracking_method": "Optical",
+        "polling_rate": "1000Hz",
+        "buttons": "7 programmable buttons",
+        "scroll_wheel": "Tactile",
+        "connectivity": "Wired (USB)",
+        "special_features": "Weight system, Customizable RGB lighting"
+      },
+      "individual_rating": 4.7,
+      "average_rating": 4.6,
+      "reviews": [
+        {
+          "username": "gamer456",
+          "rating": 4.8,
+          "comment": "Great mouse for FPS gaming and comfortable grip."
+        },
+        {
+          "username": "techpro55",
+          "rating": 4.5,
+          "comment": "The customizable weight system is a nice touch."
+        }
+      ]
+    }
+  ],
+  "keyboards": [
+    {
+      "product_name": "Corsair K95 RGB Platinum XT",
+      "imgUrl": "https://i.ibb.co/p4Bw4f9/rog-strix-flare-ii-01-500x500.webp",
+      "category": "Others",
+      "status": "In Stock",
+      "price": 199.99,
+      "description": "High-end mechanical gaming keyboard with per-key RGB lighting",
+      "key_features": {
+        "brand": "Corsair",
+        "model": "K95 RGB Platinum XT",
+        "switch_type": "Cherry MX Speed",
+        "backlighting": "Per-key RGB",
+        "key_rollover": "Full N-key Rollover",
+        "anti_ghosting": true,
+        "connectivity": "Wired (USB)",
+        "additional_ports": "USB passthrough",
+        "special_features": "Detachable wrist rest, Dedicated macro keys"
+      },
+      "individual_rating": 4.9,
+      "average_rating": 4.8,
+      "reviews": [
+        {
+          "username": "gamerpro123",
+          "rating": 4.8,
+          "comment": "Responsive and visually stunning keyboard."
+        },
+        {
+          "username": "techenthusiast55",
+          "rating": 4.9,
+          "comment": "Customizable lighting effects are amazing."
+        }
+      ]
+    },
+    {
+      "product_name": "Ducky One 2 Mini",
+      "imgUrl": "https://i.ibb.co/ZGhnNmL/g-pro-01-500x500.jpg",
+      "category": "Others",
+      "status": "In Stock",
+      "price": 119.99,
+      "description": "Compact 60% mechanical keyboard with PBT keycaps",
+      "key_features": {
+        "brand": "Ducky",
+        "model": "One 2 Mini",
+        "switch_type": "Cherry MX Red",
+        "backlighting": "Single-color LED",
+        "key_rollover": "Full N-key Rollover",
+        "anti_ghosting": true,
+        "connectivity": "Wired (USB Type-C)",
+        "special_features": "Detachable USB cable, Macro recording"
+      },
+      "individual_rating": 4.8,
+      "average_rating": 4.7,
+      "reviews": [
+        {
+          "username": "gamingenthusiast123",
+          "rating": 4.7,
+          "comment": "Perfect compact keyboard for gaming setups."
+        },
+        {
+          "username": "pcbuilderpro789",
+          "rating": 4.8,
+          "comment": "High-quality PBT keycaps and smooth switches."
+        }
+      ]
+    },
+    {
+      "product_name": "Logitech G915 Lightspeed",
+      "imgUrl": "https://i.ibb.co/4WCmqFw/huntsman-mini-1-500x500.jpg",
+      "category": "Others",
+      "status": "In Stock",
+      "price": 249.99,
+      "description": "Wireless mechanical gaming keyboard with low-profile switches",
+      "key_features": {
+        "brand": "Logitech",
+        "model": "G915 Lightspeed",
+        "switch_type": "GL Low Profile",
+        "backlighting": "Per-key RGB",
+        "key_rollover": "Full N-key Rollover",
+        "anti_ghosting": true,
+        "connectivity": "Wireless (LIGHTSPEED)",
+        "additional_ports": "USB passthrough",
+        "special_features": "Dedicated media controls, Aircraft-grade aluminum"
+      },
+      "individual_rating": 4.9,
+      "average_rating": 4.8,
+      "reviews": [
+        {
+          "username": "gamerpro123",
+          "rating": 4.8,
+          "comment": "Sleek and feature-packed wireless keyboard."
+        },
+        {
+          "username": "techenthusiast55",
+          "rating": 4.9,
+          "comment": "Low-profile switches are great for typing and gaming."
+        }
+      ]
+    }
+  ],
+  "gpus": [
+    {
+      "product_name": "NVIDIA GeForce RTX 3080",
+      "imgUrl": "https://i.ibb.co/LYWtG58/radeon-rx-550-01-500x500.jpg",
+      "category": "Others",
+      "status": "In Stock",
+      "price": 799.99,
+      "description": "High-performance gaming GPU for smooth 4K gaming",
+      "key_features": {
+        "brand": "NVIDIA",
+        "model": "GeForce RTX 3080",
+        "memory_size": "10GB GDDR6X",
+        "memory_interface": "320-bit",
+        "core_clock": "1440 MHz",
+        "boost_clock": "1710 MHz",
+        "ports": "3x DisplayPort, 1x HDMI",
+        "power_connector": "2x 8-pin",
+        "support": "Ray Tracing, DLSS 2.0"
+      },
+      "individual_rating": 4.9,
+      "average_rating": 4.8,
+      "reviews": [
+        {
+          "username": "gamerpro789",
+          "rating": 5,
+          "comment": "Beastly GPU for ultra settings at 4K resolution."
+        },
+        {
+          "username": "techsavvy55",
+          "rating": 4.8,
+          "comment": "Ray tracing performance is mind-blowing."
+        }
+      ]
+    },
+    {
+      "product_name": "AMD Radeon RX 6700 XT",
+      "imgUrl": "https://i.ibb.co/5FQ7FPq/rtx-3060-gaming-x-01-500x500.jpg",
+      "category": "Others",
+      "status": "In Stock",
+      "price": 499.99,
+      "description": "Powerful AMD GPU for high-refresh-rate gaming",
+      "key_features": {
+        "brand": "AMD",
+        "model": "Radeon RX 6700 XT",
+        "memory_size": "12GB GDDR6",
+        "memory_interface": "192-bit",
+        "core_clock": "2321 MHz",
+        "boost_clock": "2581 MHz",
+        "ports": "3x DisplayPort, 1x HDMI",
+        "power_connector": "2x 8-pin",
+        "support": "Radeon Anti-Lag, AMD FidelityFX"
+      },
+      "individual_rating": 4.8,
+      "average_rating": 4.7,
+      "reviews": [
+        {
+          "username": "gamer123",
+          "rating": 4.9,
+          "comment": "Great GPU for 1440p gaming with high FPS."
+        },
+        {
+          "username": "techguy55",
+          "rating": 4.7,
+          "comment": "AMD's features make a difference in gaming."
+        }
+      ]
+    },
+    {
+      "product_name": "MSI GeForce GTX 1660 Super Gaming X",
+      "imgUrl": "https://i.ibb.co/FxRrPsh/geforce-gtx-1650-nb-4gd6-v3-v-01-500x500.webp",
+      "category": "Others",
+      "status": "In Stock",
+      "price": 289.99,
+      "description": "Value-oriented GPU for 1080p gaming with low power consumption",
+      "key_features": {
+        "brand": "MSI",
+        "model": "GeForce GTX 1660 Super Gaming X",
+        "memory_size": "6GB GDDR6",
+        "memory_interface": "192-bit",
+        "core_clock": "1830 MHz",
+        "boost_clock": "1860 MHz",
+        "ports": "3x DisplayPort, 1x HDMI, 1x DVI-D",
+        "power_connector": "1x 8-pin",
+        "support": "NVIDIA Ansel, G-SYNC Compatible"
+      },
+      "individual_rating": 4.7,
+      "average_rating": 4.6,
+      "reviews": [
+        {
+          "username": "gamer456",
+          "rating": 4.8,
+          "comment": "Excellent budget GPU for 1080p gaming."
+        },
+        {
+          "username": "techpro55",
+          "rating": 4.5,
+          "comment": "Runs cool and quiet with great performance."
+        }
+      ]
+    }
+  ],
+  "headphones": [
+    {
+      "product_name": "Sony WH-1000XM4 Wireless Noise-Canceling Headphones",
+      "imgUrl": "https://i.ibb.co/yRp307V/futuretour-01-500x500.webp",
+      "category": "Others",
+      "status": "In Stock",
+      "price": 349.99,
+      "description": "Premium wireless headphones with industry-leading noise cancellation",
+      "key_features": {
+        "brand": "Sony",
+        "model": "WH-1000XM4",
+        "noise_cancellation": "Active Noise Canceling (ANC)",
+        "bluetooth_version": "5.0",
+        "battery_life": "Up to 30 hours",
+        "microphone": "Built-in microphone",
+        "sound_quality": "High-resolution audio",
+        "special_features": "Touch controls, Voice assistant support"
+      },
+      "individual_rating": 4.8,
+      "average_rating": 4.7,
+      "reviews": [
+        {
+          "username": "audiophile123",
+          "rating": 4.9,
+          "comment": "Unmatched noise cancellation and superb audio quality."
+        },
+        {
+          "username": "techenthusiast55",
+          "rating": 4.7,
+          "comment": "Comfortable for long listening sessions."
+        }
+      ]
+    },
+    {
+      "product_name": "Bose QuietComfort 35 II Wireless Headphones",
+      "imgUrl": "https://i.ibb.co/4NC4XS2/air-joy-plus-01-500x500.webp",
+      "category": "Others",
+      "status": "In Stock",
+      "price": 299.99,
+      "description": "Wireless headphones with world-class noise cancellation",
+      "key_features": {
+        "brand": "Bose",
+        "model": "QuietComfort 35 II",
+        "noise_cancellation": "Active Noise Canceling (ANC)",
+        "bluetooth_version": "4.1",
+        "battery_life": "Up to 20 hours",
+        "microphone": "Built-in microphone",
+        "sound_quality": "Clear audio performance",
+        "special_features": "Google Assistant, Alexa integration"
+      },
+      "individual_rating": 4.7,
+      "average_rating": 4.6,
+      "reviews": [
+        {
+          "username": "audiophile456",
+          "rating": 4.8,
+          "comment": "Bose's ANC is simply amazing."
+        },
+        {
+          "username": "techpro55",
+          "rating": 4.5,
+          "comment": "Very comfortable for extended use."
+        }
+      ]
+    },
+    {
+      "product_name": "Sennheiser HD 660 S Open-Back Headphones",
+      "imgUrl": "https://i.ibb.co/yQGDy3q/s605-01-500x500.webp",
+      "category": "Others",
+      "status": "In Stock",
+      "price": 499.99,
+      "description": "High-fidelity open-back headphones for audiophiles",
+      "key_features": {
+        "brand": "Sennheiser",
+        "model": "HD 660 S",
+        "design": "Open-back",
+        "impedance": "150 Ohms",
+        "frequency_response": "10Hz - 41kHz",
+        "connector": "3.5mm/6.3mm",
+        "sound_quality": "Natural and detailed audio",
+        "special_features": "Replaceable ear pads, Detachable cables"
+      },
+      "individual_rating": 4.9,
+      "average_rating": 4.8,
+      "reviews": [
+        {
+          "username": "audiophile789",
+          "rating": 5,
+          "comment": "Pure audio bliss for critical listening."
+        },
+        {
+          "username": "techsavvy55",
+          "rating": 4.8,
+          "comment": "Open-back design gives a spacious soundstage."
+        }
+      ]
+    }
+  ]
+}

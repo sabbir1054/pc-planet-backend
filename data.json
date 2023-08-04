@@ -1,0 +1,1402 @@
+[
+  {
+    "product_name": "MSI MPG B450 Gaming Plus MAX",
+    "imgUrl": "https://i.ibb.co/HNSW0WS/z790-ud-ax-01-500x500.webp",
+    "category": "Motherboard",
+    "status": "In Stock",
+    "price": 109.99,
+    "description": "ATX gaming motherboard with extended heatsink design and Core Boost",
+    "key_features": {
+      "brand": "MSI",
+      "model": "MPG B450 Gaming Plus MAX",
+      "chipset": "AMD B450",
+      "form_factor": "ATX",
+      "socket": "AM4",
+      "memory_slots": 4,
+      "max_memory": "128GB",
+      "memory_type": "DDR4",
+      "PCIe_slots": 2,
+      "USB_ports": 6,
+      "SATA_ports": 6,
+      "Ethernet": "1 Gbps",
+      "audio": "Realtek ALC892",
+      "RGB_lighting": true
+    },
+    "individual_rating": 4.5,
+    "average_rating": 4.4,
+    "reviews": [
+      {
+        "username": "gamer77",
+        "rating": 4.5,
+        "comment": "Solid performance for the price!"
+      },
+      {
+        "username": "techsavvy",
+        "rating": 4.3,
+        "comment": "Good overclocking capabilities."
+      }
+    ]
+  },
+  {
+    "product_name": "ASRock B560 Pro4",
+    "imgUrl": "https://i.ibb.co/r54RWMQ/rog-strix-b760-a-gaming-wifi-d4-01-500x500.webp",
+    "category": "Motherboard",
+    "status": "In Stock",
+    "price": 129.99,
+    "description": "ATX motherboard with 8 power phase design and Intel Optane Memory support",
+    "key_features": {
+      "brand": "ASRock",
+      "model": "B560 Pro4",
+      "chipset": "Intel B560",
+      "form_factor": "ATX",
+      "socket": "LGA1200",
+      "memory_slots": 4,
+      "max_memory": "128GB",
+      "memory_type": "DDR4",
+      "PCIe_slots": 3,
+      "USB_ports": 8,
+      "SATA_ports": 6,
+      "Ethernet": "1 Gbps",
+      "audio": "Realtek ALC897",
+      "RGB_lighting": false
+    },
+    "individual_rating": 4.2,
+    "average_rating": 4.1,
+    "reviews": [
+      {
+        "username": "pcenthusiast",
+        "rating": 4.0,
+        "comment": "Decent mid-range motherboard."
+      },
+      {
+        "username": "gamer999",
+        "rating": 4.3,
+        "comment": "Runs cool and stable."
+      }
+    ]
+  },
+  {
+    "product_name": "GIGABYTE B750 AORUS Master",
+    "imgUrl": "https://i.ibb.co/rx8hQj7/b650-aorus-elite-ax-01-500x500.webp",
+    "category": "Motherboard",
+    "status": "Out of stock",
+    "price": 249.99,
+    "description": "E-ATX gaming motherboard with 16-phase digital VRM and Intel Thunderbolt 4 support",
+    "key_features": {
+      "brand": "GIGABYTE",
+      "model": "B750 AORUS Master",
+      "chipset": "Intel Z590",
+      "form_factor": "E-ATX",
+      "socket": "LGA1200",
+      "memory_slots": 4,
+      "max_memory": "128GB",
+      "memory_type": "DDR4",
+      "PCIe_slots": 4,
+      "USB_ports": 10,
+      "SATA_ports": 8,
+      "Ethernet": "2.5 Gbps",
+      "audio": "Realtek ALC1220-VB",
+      "RGB_lighting": true
+    },
+    "individual_rating": 4.9,
+    "average_rating": 4.8,
+    "reviews": [
+      {
+        "username": "elitegamer",
+        "rating": 5,
+        "comment": "Top-tier motherboard with impressive features."
+      },
+      {
+        "username": "techwizard",
+        "rating": 4.7,
+        "comment": "A bit pricey but worth it for enthusiasts."
+      }
+    ]
+  },
+  {
+    "product_name": "ASUS Prime H570-PLUS",
+    "imgUrl": "https://i.ibb.co/hf0NMHx/asus-rog-strix-x570-f-motherboard-500x500.jpg",
+    "category": "Motherboard",
+    "status": "In Stock",
+    "price": 179.99,
+    "description": "ATX motherboard with 8+1 power stages and enhanced VRM heatsink",
+    "key_features": {
+      "brand": "ASUS",
+      "model": "Prime H570-PLUS",
+      "chipset": "Intel H570",
+      "form_factor": "ATX",
+      "socket": "LGA1200",
+      "memory_slots": 4,
+      "max_memory": "128GB",
+      "memory_type": "DDR4",
+      "PCIe_slots": 3,
+      "USB_ports": 8,
+      "SATA_ports": 6,
+      "Ethernet": "1 Gbps",
+      "audio": "Realtek ALC897",
+      "RGB_lighting": false
+    },
+    "individual_rating": 4.4,
+    "average_rating": 4.3,
+    "reviews": [
+      {
+        "username": "techlover",
+        "rating": 4.5,
+        "comment": "Reliable motherboard for everyday use."
+      },
+      {
+        "username": "gamerpro",
+        "rating": 4.2,
+        "comment": "Not the fanciest, but gets the job done."
+      }
+    ]
+  },
+  {
+    "product_name": "MSI MAG Z590 Tomahawk WiFi",
+    "imgUrl": "https://i.ibb.co/vJRNL7v/mpg-z690-edge-wifi-ddr4-01-500x500.jpg",
+    "category": "Motherboard",
+    "status": "In Stock",
+    "price": 269.99,
+    "description": "ATX gaming motherboard with 16+1+1 Duet Rail Power System and Intel Wi-Fi 6E",
+    "key_features": {
+      "brand": "MSI",
+      "model": "MAG Z590 Tomahawk WiFi",
+      "chipset": "Intel Z590",
+      "form_factor": "ATX",
+      "socket": "LGA1200",
+      "memory_slots": 4,
+      "max_memory": "128GB",
+      "memory_type": "DDR4",
+      "PCIe_slots": 3,
+      "USB_ports": 10,
+      "SATA_ports": 6,
+      "Ethernet": "2.5 Gbps",
+      "audio": "Realtek ALC4080",
+      "wireless": "Wi-Fi 6E (802.11ax)",
+      "RGB_lighting": true
+    },
+    "individual_rating": 4.7,
+    "average_rating": 4.6,
+    "reviews": [
+      {
+        "username": "gamingenthusiast",
+        "rating": 5,
+        "comment": "High-end performance and impressive aesthetics!"
+      },
+      {
+        "username": "techgeek123",
+        "rating": 4.5,
+        "comment": "Great choice for gaming builds."
+      }
+    ]
+  },
+  {
+    "product_name": "AMD Ryzen 9 5900X",
+    "imgUrl": "https://i.ibb.co/4mbffKR/ryzen-9-3900xt-500x500.jpg",
+    "category": "CPU",
+    "status": "In Stock",
+    "price": 499.99,
+    "description": "12-core, 24-thread processor for high-end gaming and content creation",
+    "key_features": {
+      "brand": "AMD",
+      "model": "Ryzen 9 5900X",
+      "socket": "AM4",
+      "core_count": 12,
+      "thread_count": 24,
+      "base_clock": "3.7 GHz",
+      "max_boost_clock": "4.8 GHz",
+      "cache": "70MB",
+      "TDP": "105W",
+      "architecture": "Zen 3"
+    },
+    "individual_rating": 4.9,
+    "average_rating": 4.8,
+    "reviews": [
+      {
+        "username": "gamerpro123",
+        "rating": 5,
+        "comment": "Insane performance for gaming and rendering tasks."
+      },
+      {
+        "username": "techguru456",
+        "rating": 4.8,
+        "comment": "Worth every penny for its processing power."
+      }
+    ]
+  },
+  {
+    "product_name": "Intel Core i7-11700K",
+    "imgUrl": "https://i.ibb.co/wLFQ6hk/i7-12700k-01-500x500.jpg",
+    "category": "CPU",
+    "status": "In Stock",
+    "price": 449.99,
+    "description": "8-core, 16-thread unlocked processor for high-performance computing",
+    "key_features": {
+      "brand": "Intel",
+      "model": "Core i7-11700K",
+      "socket": "LGA1200",
+      "core_count": 8,
+      "thread_count": 16,
+      "base_clock": "3.6 GHz",
+      "max_boost_clock": "5.0 GHz",
+      "cache": "16MB",
+      "TDP": "125W",
+      "architecture": "Rocket Lake"
+    },
+    "individual_rating": 4.8,
+    "average_rating": 4.7,
+    "reviews": [
+      {
+        "username": "gamer88",
+        "rating": 4.7,
+        "comment": "Impressive CPU for gaming and overclocking."
+      },
+      {
+        "username": "techenthusiast55",
+        "rating": 4.6,
+        "comment": "Handles multitasking like a champ."
+      }
+    ]
+  },
+  {
+    "product_name": "AMD Ryzen 7 5800X",
+    "imgUrl": "https://i.ibb.co/GHy9bMs/ryzen-7-7700-01-500x500.webp",
+    "category": "CPU",
+    "status": "In Stock",
+    "price": 399.99,
+    "description": "8-core, 16-thread processor for high-performance gaming and multitasking",
+    "key_features": {
+      "brand": "AMD",
+      "model": "Ryzen 7 5800X",
+      "socket": "AM4",
+      "core_count": 8,
+      "thread_count": 16,
+      "base_clock": "3.8 GHz",
+      "max_boost_clock": "4.7 GHz",
+      "cache": "32MB",
+      "TDP": "105W",
+      "architecture": "Zen 3"
+    },
+    "individual_rating": 4.7,
+    "average_rating": 4.6,
+    "reviews": [
+      {
+        "username": "gamer123",
+        "rating": 4.8,
+        "comment": "Solid gaming performance for the price."
+      },
+      {
+        "username": "techguy55",
+        "rating": 4.5,
+        "comment": "Fast and efficient CPU."
+      }
+    ]
+  },
+  {
+    "product_name": "Intel Core i9-11900K",
+    "imgUrl": "https://i.ibb.co/1GFfL7K/i9-12900ks-01-500x500.jpg",
+    "category": "CPU",
+    "status": "In Stock",
+    "price": 499.99,
+    "description": "8-core, 16-thread unlocked processor for ultimate performance",
+    "key_features": {
+      "brand": "Intel",
+      "model": "Core i9-11900K",
+      "socket": "LGA1200",
+      "core_count": 8,
+      "thread_count": 16,
+      "base_clock": "3.5 GHz",
+      "max_boost_clock": "5.3 GHz",
+      "cache": "16MB",
+      "TDP": "125W",
+      "architecture": "Rocket Lake"
+    },
+    "individual_rating": 4.8,
+    "average_rating": 4.7,
+    "reviews": [
+      {
+        "username": "gamingpro123",
+        "rating": 4.8,
+        "comment": "Fast and powerful CPU. Runs games smoothly."
+      },
+      {
+        "username": "pcbuilder345",
+        "rating": 4.6,
+        "comment": "Great choice for gaming enthusiasts."
+      }
+    ]
+  },
+  {
+    "product_name": "AMD Ryzen 5 5600X",
+    "imgUrl": "https://i.ibb.co/TPGRNrR/ryzen-5-7600-01-500x500.webp",
+    "category": "CPU",
+    "status": "In Stock",
+    "price": 299.99,
+    "description": "6-core, 12-thread processor for gaming and multitasking",
+    "key_features": {
+      "brand": "AMD",
+      "model": "Ryzen 5 5600X",
+      "socket": "AM4",
+      "core_count": 6,
+      "thread_count": 12,
+      "base_clock": "3.7 GHz",
+      "max_boost_clock": "4.6 GHz",
+      "cache": "32MB",
+      "TDP": "65W",
+      "architecture": "Zen 3"
+    },
+    "individual_rating": 4.7,
+    "average_rating": 4.6,
+    "reviews": [
+      {
+        "username": "gamer456",
+        "rating": 4.8,
+        "comment": "Great for gaming and running heavy applications."
+      },
+      {
+        "username": "techpro55",
+        "rating": 4.8,
+        "comment": "Reliable and fast memory kit."
+      }
+    ]
+  },
+  {
+    "product_name": "Corsair Vengeance LPX 16GB (2 x 8GB)",
+    "imgUrl": "https://i.ibb.co/Tk7psm4/panther-rage-16gb-ddr4-2666mhz-01-500x500.jpg",
+    "category": "RAM",
+    "status": "In Stock",
+    "price": 99.99,
+    "description": "High-performance DDR4 memory kit for faster multitasking and gaming",
+    "key_features": {
+      "brand": "Corsair",
+      "model": "Vengeance LPX",
+      "capacity": "16GB (2 x 8GB)",
+      "speed": "3200MHz",
+      "memory_type": "DDR4",
+      "CAS_latency": 16,
+      "voltage": "1.35V",
+      "heat_spreader": true
+    },
+    "individual_rating": 4.7,
+    "average_rating": 4.6,
+    "reviews": [
+      {
+        "username": "gamer77",
+        "rating": 4.5,
+        "comment": "Reliable and fast RAM. Improved my PC performance."
+      },
+      {
+        "username": "techsavvy123",
+        "rating": 4.8,
+        "comment": "Great value for money. Easy to overclock."
+      }
+    ]
+  },
+  {
+    "product_name": "G.Skill Trident Z RGB 32GB (2 x 16GB)",
+    "imgUrl": "https://i.ibb.co/s9ywdpX/delta-rgb-01-500x500.webp",
+    "category": "RAM",
+    "status": "In Stock",
+    "price": 199.99,
+    "description": "High-performance RGB DDR4 memory kit with stylish heatspreaders",
+    "key_features": {
+      "brand": "G.Skill",
+      "model": "Trident Z RGB",
+      "capacity": "32GB (2 x 16GB)",
+      "speed": "3600MHz",
+      "memory_type": "DDR4",
+      "CAS_latency": 18,
+      "voltage": "1.35V",
+      "heat_spreader": true
+    },
+    "individual_rating": 4.9,
+    "average_rating": 4.8,
+    "reviews": [
+      {
+        "username": "gamingenthusiast",
+        "rating": 5,
+        "comment": "Stunning RGB and excellent performance."
+      },
+      {
+        "username": "pcbuilderpro",
+        "rating": 4.7,
+        "comment": "Solid RAM kit for gaming and heavy tasks."
+      }
+    ]
+  },
+  {
+    "product_name": "Kingston HyperX Fury 16GB (2 x 8GB)",
+    "imgUrl": "https://i.ibb.co/0XcwYSK/fury-beast-16gb-6000mhz-04-500x500.webp",
+    "category": "RAM",
+    "status": "In Stock",
+    "price": 89.99,
+    "description": "Affordable DDR4 memory kit with stylish design and reliable performance",
+    "key_features": {
+      "brand": "Kingston",
+      "model": "HyperX Fury",
+      "capacity": "16GB (2 x 8GB)",
+      "speed": "3000MHz",
+      "memory_type": "DDR4",
+      "CAS_latency": 15,
+      "voltage": "1.35V",
+      "heat_spreader": true
+    },
+    "individual_rating": 4.6,
+    "average_rating": 4.5,
+    "reviews": [
+      {
+        "username": "gamer123",
+        "rating": 4.5,
+        "comment": "Great budget-friendly RAM kit for gaming."
+      },
+      {
+        "username": "techguy55",
+        "rating": 4.7,
+        "comment": "Reliable and stable performance."
+      }
+    ]
+  },
+  {
+    "product_name": "Crucial Ballistix MAX 32GB (2 x 16GB)",
+    "imgUrl": "https://i.ibb.co/bQQnjXy/lancer-01-500x500.jpg",
+    "category": "RAM",
+    "status": "In Stock",
+    "price": 249.99,
+    "description": "High-performance DDR4 memory kit for overclockers and enthusiasts",
+    "key_features": {
+      "brand": "Crucial",
+      "model": "Ballistix MAX",
+      "capacity": "32GB (2 x 16GB)",
+      "speed": "4000MHz",
+      "memory_type": "DDR4",
+      "CAS_latency": 18,
+      "voltage": "1.35V",
+      "heat_spreader": true
+    },
+    "individual_rating": 4.8,
+    "average_rating": 4.7,
+    "reviews": [
+      {
+        "username": "gamingpro789",
+        "rating": 4.8,
+        "comment": "Top-notch RAM for extreme performance."
+      },
+      {
+        "username": "techenthusiast55",
+        "rating": 4.9,
+        "comment": "Great for overclocking and gaming."
+      }
+    ]
+  },
+  {
+    "product_name": "TeamGroup T-Force Xtreem ARGB 64GB (2 x 32GB)",
+    "imgUrl": "https://i.ibb.co/BgSyMV2/vengeance-rgb-pro-ram-kit-white-01-500x500.jpg",
+    "category": "RAM",
+    "status": "In Stock",
+    "price": 499.99,
+    "description": "High-capacity DDR4 memory kit with ARGB lighting effects",
+    "key_features": {
+      "brand": "TeamGroup",
+      "model": "T-Force Xtreem ARGB",
+      "capacity": "64GB (2 x 32GB)",
+      "speed": "3600MHz",
+      "memory_type": "DDR4",
+      "CAS_latency": 18,
+      "voltage": "1.35V",
+      "heat_spreader": true
+    },
+    "individual_rating": 4.9,
+    "average_rating": 4.8,
+    "reviews": [
+      {
+        "username": "gamerpro456",
+        "rating": 5,
+        "comment": "Impressive lighting effects and performance."
+      },
+      {
+        "username": "techsavvy789",
+        "rating": 4.8,
+        "comment": "Ideal for content creators and multitaskers."
+      }
+    ]
+  },
+  {
+    "product_name": "Corsair RM750x",
+    "imgUrl": "https://i.ibb.co/7g0fVqk/pt-p200b-01-500x500.webp",
+    "category": "Power Supply Unit",
+    "status": "In Stock",
+    "price": 129.99,
+    "description": "750W 80 Plus Gold certified fully modular power supply",
+    "key_features": {
+      "brand": "Corsair",
+      "model": "RM750x",
+      "wattage": "750W",
+      "efficiency": "80 Plus Gold",
+      "modularity": "Fully Modular",
+      "fan_size": "135mm",
+      "protections": "Overvoltage, Overcurrent, Short Circuit, Over Temperature",
+      "connectors": "ATX, EPS, PCIe, SATA, Molex"
+    },
+    "individual_rating": 4.9,
+    "average_rating": 4.8,
+    "reviews": [
+      {
+        "username": "gamerpro123",
+        "rating": 4.8,
+        "comment": "Quiet and reliable PSU for gaming builds."
+      },
+      {
+        "username": "techenthusiast55",
+        "rating": 4.9,
+        "comment": "Great value and efficient power supply."
+      }
+    ]
+  },
+  {
+    "product_name": "Seasonic Focus GX-650",
+    "imgUrl": "https://i.ibb.co/DLNTXKY/ps-600ax-06-500x500.webp",
+    "category": "Power Supply Unit",
+    "status": "In Stock",
+    "price": 109.99,
+    "description": "650W 80 Plus Gold certified fully modular power supply",
+    "key_features": {
+      "brand": "Seasonic",
+      "model": "Focus GX-650",
+      "wattage": "650W",
+      "efficiency": "80 Plus Gold",
+      "modularity": "Fully Modular",
+      "fan_size": "120mm",
+      "protections": "Overvoltage, Overcurrent, Short Circuit, Over Temperature",
+      "connectors": "ATX, EPS, PCIe, SATA, Molex"
+    },
+    "individual_rating": 4.8,
+    "average_rating": 4.7,
+    "reviews": [
+      {
+        "username": "gamingenthusiast123",
+        "rating": 4.7,
+        "comment": "Reliable and efficient PSU for my gaming rig."
+      },
+      {
+        "username": "pcbuilderpro789",
+        "rating": 4.8,
+        "comment": "Great build quality and performance."
+      }
+    ]
+  },
+  {
+    "product_name": "EVGA Supernova 850 G3",
+    "imgUrl": "https://i.ibb.co/XkK3c9y/pm850d-01-500x500.webp",
+    "category": "Power Supply Unit",
+    "status": "In Stock",
+    "price": 149.99,
+    "description": "850W 80 Plus Gold certified fully modular power supply",
+    "key_features": {
+      "brand": "EVGA",
+      "model": "Supernova 850 G3",
+      "wattage": "850W",
+      "efficiency": "80 Plus Gold",
+      "modularity": "Fully Modular",
+      "fan_size": "130mm",
+      "protections": "Overvoltage, Overcurrent, Short Circuit, Over Temperature",
+      "connectors": "ATX, EPS, PCIe, SATA, Molex"
+    },
+    "individual_rating": 4.7,
+    "average_rating": 4.6,
+    "reviews": [
+      {
+        "username": "gamingpro55",
+        "rating": 4.8,
+        "comment": "Efficient and stable PSU for my high-end build."
+      },
+      {
+        "username": "techenthusiast789",
+        "rating": 4.6,
+        "comment": "Great customer support from EVGA."
+      }
+    ]
+  },
+  {
+    "product_name": "Cooler Master MWE 650 White V2",
+    "imgUrl": "https://i.ibb.co/0cRHFmK/neoeco-gold-850w-01-500x500.webp",
+    "category": "Power Supply Unit",
+    "status": "In Stock",
+    "price": 89.99,
+    "description": "650W 80 Plus White certified non-modular power supply",
+    "key_features": {
+      "brand": "Cooler Master",
+      "model": "MWE 650 White V2",
+      "wattage": "650W",
+      "efficiency": "80 Plus White",
+      "modularity": "Non-Modular",
+      "fan_size": "120mm",
+      "protections": "Overvoltage, Overcurrent, Short Circuit, Over Temperature",
+      "connectors": "ATX, EPS, PCIe, SATA, Molex"
+    },
+    "individual_rating": 4.6,
+    "average_rating": 4.5,
+    "reviews": [
+      {
+        "username": "gamer456",
+        "rating": 4.7,
+        "comment": "Affordable PSU with reliable performance."
+      },
+      {
+        "username": "techpro55",
+        "rating": 4.5,
+        "comment": "Gets the job done for my mid-range build."
+      }
+    ]
+  },
+  {
+    "product_name": "NZXT C750",
+    "imgUrl": "https://i.ibb.co/k4962ZB/thor-1200p2-500x500.webp",
+    "category": "Power Supply Unit",
+    "status": "In Stock",
+    "price": 139.99,
+    "description": "750W 80 Plus Gold certified fully modular power supply",
+    "key_features": {
+      "brand": "NZXT",
+      "model": "C750",
+      "wattage": "750W",
+      "efficiency": "80 Plus Gold",
+      "modularity": "Fully Modular",
+      "fan_size": "140mm",
+      "protections": "Overvoltage, Overcurrent, Short Circuit, Over Temperature",
+      "connectors": "ATX, EPS, PCIe, SATA, Molex"
+    },
+    "individual_rating": 4.9,
+    "average_rating": 4.8,
+    "reviews": [
+      {
+        "username": "gamerpro789",
+        "rating": 4.9,
+        "comment": "Sleek design and stable performance."
+      },
+      {
+        "username": "techsavvy55",
+        "rating": 4.8,
+        "comment": "Efficient power delivery for my high-powered GPU."
+      }
+    ]
+  },
+  {
+    "product_name": "Samsung 970 EVO Plus 1TB NVMe SSD",
+    "imgUrl": "https://i.ibb.co/dt2K8wt/exos-x18-01-500x500.jpg",
+    "category": "Storage Device",
+    "status": "In Stock",
+    "price": 199.99,
+    "description": "High-performance NVMe SSD with read/write speeds up to 3500/3300 MB/s",
+    "key_features": {
+      "brand": "Samsung",
+      "model": "970 EVO Plus",
+      "capacity": "1TB",
+      "interface": "M.2 PCIe 3.0 x4",
+      "form_factor": "M.2 2280",
+      "sequential_read_speed": "3500 MB/s",
+      "sequential_write_speed": "3300 MB/s",
+      "TBW": "600TB",
+      "MTBF": "1.5 million hours"
+    },
+    "individual_rating": 4.9,
+    "average_rating": 4.8,
+    "reviews": [
+      {
+        "username": "gamer789",
+        "rating": 5,
+        "comment": "Blazing fast SSD! OS boots in seconds."
+      },
+      {
+        "username": "pcbuilderpro789",
+        "rating": 4.8,
+        "comment": "Highly recommended for high-end PCs."
+      }
+    ]
+  },
+  {
+    "product_name": "Western Digital Blue 2TB HDD",
+    "imgUrl": "https://i.ibb.co/YNZ1HPt/p300-1tb-1-500x500.jpg",
+    "category": "Storage Device",
+    "status": "In Stock",
+    "price": 79.99,
+    "description": "Reliable 3.5-inch internal hard drive for storage and backup",
+    "key_features": {
+      "brand": "Western Digital",
+      "model": "Blue",
+      "capacity": "2TB",
+      "interface": "SATA 6.0 Gb/s",
+      "form_factor": "3.5-inch",
+      "rotation_speed": "5400 RPM",
+      "cache": "64MB",
+      "MTBF": "1 million hours"
+    },
+    "individual_rating": 4.7,
+    "average_rating": 4.6,
+    "reviews": [
+      {
+        "username": "gamer123",
+        "rating": 4.8,
+        "comment": "Affordable and spacious HDD for storing games."
+      },
+      {
+        "username": "techguy55",
+        "rating": 4.5,
+        "comment": "Reliable and quiet hard drive for data storage."
+      }
+    ]
+  },
+  {
+    "product_name": "Crucial MX500 500GB SATA SSD",
+    "imgUrl": "https://i.ibb.co/GFsCJ01/stkz5000400-01-500x500.jpg",
+    "category": "Storage Device",
+    "status": "In Stock",
+    "price": 89.99,
+    "description": "Fast and reliable SATA SSD with read/write speeds up to 560/510 MB/s",
+    "key_features": {
+      "brand": "Crucial",
+      "model": "MX500",
+      "capacity": "500GB",
+      "interface": "SATA 6.0 Gb/s",
+      "form_factor": "2.5-inch",
+      "sequential_read_speed": "560 MB/s",
+      "sequential_write_speed": "510 MB/s",
+      "TBW": "180TB",
+      "MTBF": "1.8 million hours"
+    },
+    "individual_rating": 4.8,
+    "average_rating": 4.7,
+    "reviews": [
+      {
+        "username": "gamingpro55",
+        "rating": 4.8,
+        "comment": "Great upgrade for faster load times in games."
+      },
+      {
+        "username": "techenthusiast789",
+        "rating": 4.7,
+        "comment": "Reliable and affordable SSD for everyday use."
+      }
+    ]
+  },
+  {
+    "product_name": "Seagate Barracuda 4TB HDD",
+    "imgUrl": "https://i.ibb.co/ZN0Xcvv/barracuda-510-02-500x500.jpg",
+    "category": "Storage Device",
+    "status": "In Stock",
+    "price": 109.99,
+    "description": "Large capacity 3.5-inch internal hard drive for storage and backup",
+    "key_features": {
+      "brand": "Seagate",
+      "model": "Barracuda",
+      "capacity": "4TB",
+      "interface": "SATA 6.0 Gb/s",
+      "form_factor": "3.5-inch",
+      "rotation_speed": "5400 RPM",
+      "cache": "256MB",
+      "MTBF": "1 million hours"
+    },
+    "individual_rating": 4.7,
+    "average_rating": 4.6,
+    "reviews": [
+      {
+        "username": "gamer456",
+        "rating": 4.8,
+        "comment": "High-capacity HDD for storing large media files."
+      },
+      {
+        "username": "techpro55",
+        "rating": 4.5,
+        "comment": "Good value for money. Reliable storage solution."
+      }
+    ]
+  },
+  {
+    "product_name": "ADATA XPG SX8200 Pro 1TB NVMe SSD",
+    "imgUrl": "https://i.ibb.co/3Fyd322/exos-x18-12tb-01-500x500.webp",
+    "category": "Storage Device",
+    "status": "In Stock",
+    "price": 179.99,
+    "description": "High-speed NVMe SSD with read/write speeds up to 3500/3000 MB/s",
+    "key_features": {
+      "brand": "ADATA",
+      "model": "XPG SX8200 Pro",
+      "capacity": "1TB",
+      "interface": "M.2 PCIe 3.0 x4",
+      "form_factor": "M.2 2280",
+      "sequential_read_speed": "3500 MB/s",
+      "sequential_write_speed": "3000 MB/s",
+      "TBW": "640TB",
+      "MTBF": "2 million hours"
+    },
+    "individual_rating": 4.9,
+    "average_rating": 4.8,
+    "reviews": [
+      {
+        "username": "gamerpro789",
+        "rating": 4.9,
+        "comment": "Fast and reliable SSD for gaming and content creation."
+      },
+      {
+        "username": "techsavvy55",
+        "rating": 4.8,
+        "comment": "Impressive performance for a reasonable price."
+      }
+    ]
+  },
+  {
+    "product_name": "ASUS ROG Swift PG279Q",
+    "imgUrl": "https://i.ibb.co/JRqm6Sd/g27q-20-01-500x500.webp",
+    "category": "Monitor",
+    "status": "In Stock",
+    "price": 699.99,
+    "description": "27-inch 1440p gaming monitor with 165Hz refresh rate and G-SYNC",
+    "key_features": {
+      "brand": "ASUS",
+      "model": "ROG Swift PG279Q",
+      "display_size": "27 inches",
+      "resolution": "2560 x 1440 (WQHD)",
+      "refresh_rate": "165Hz",
+      "panel_type": "IPS",
+      "response_time": "4ms (GTG)",
+      "adaptive_sync": "NVIDIA G-SYNC",
+      "connectors": "DisplayPort, HDMI, USB 3.0"
+    },
+    "individual_rating": 4.9,
+    "average_rating": 4.8,
+    "reviews": [
+      {
+        "username": "gamerpro123",
+        "rating": 4.8,
+        "comment": "Amazing colors and smooth gaming experience."
+      },
+      {
+        "username": "techenthusiast55",
+        "rating": 4.9,
+        "comment": "The high refresh rate makes a huge difference."
+      }
+    ]
+  },
+  {
+    "product_name": "LG 34GN850-B",
+    "imgUrl": "https://i.ibb.co/7t3dJqW/27qn600-b-001-500x500.webp",
+    "category": "Monitor",
+    "status": "In Stock",
+    "price": 899.99,
+    "description": "34-inch ultrawide 1440p gaming monitor with 144Hz refresh rate and Nano IPS",
+    "key_features": {
+      "brand": "LG",
+      "model": "34GN850-B",
+      "display_size": "34 inches",
+      "resolution": "3440 x 1440 (UWQHD)",
+      "refresh_rate": "144Hz",
+      "panel_type": "Nano IPS",
+      "response_time": "1ms (GTG)",
+      "adaptive_sync": "AMD FreeSync Premium",
+      "connectors": "DisplayPort, HDMI, USB 3.0"
+    },
+    "individual_rating": 4.8,
+    "average_rating": 4.7,
+    "reviews": [
+      {
+        "username": "gamingenthusiast123",
+        "rating": 4.7,
+        "comment": "Ultrawide experience is immersive for gaming and productivity."
+      },
+      {
+        "username": "pcbuilderpro789",
+        "rating": 4.8,
+        "comment": "Colors and contrast are fantastic on this monitor."
+      }
+    ]
+  },
+  {
+    "product_name": "Acer Predator XB271HU",
+    "imgUrl": "https://i.ibb.co/6ZzxjJP/gmx27f4kwu-01-500x500.jpg",
+    "category": "Monitor",
+    "status": "In Stock",
+    "price": 599.99,
+    "description": "27-inch 1440p gaming monitor with 144Hz refresh rate and G-SYNC",
+    "key_features": {
+      "brand": "Acer",
+      "model": "Predator XB271HU",
+      "display_size": "27 inches",
+      "resolution": "2560 x 1440 (WQHD)",
+      "refresh_rate": "144Hz",
+      "panel_type": "IPS",
+      "response_time": "4ms (GTG)",
+      "adaptive_sync": "NVIDIA G-SYNC",
+      "connectors": "DisplayPort, HDMI, USB 3.0"
+    },
+    "individual_rating": 4.7,
+    "average_rating": 4.6,
+    "reviews": [
+      {
+        "username": "gamingpro55",
+        "rating": 4.8,
+        "comment": "Great gaming monitor with smooth performance."
+      },
+      {
+        "username": "techenthusiast789",
+        "rating": 4.6,
+        "comment": "Solid build quality and sharp image quality."
+      }
+    ]
+  },
+  {
+    "product_name": "ViewSonic VX2458-C-MHD",
+    "imgUrl": "https://i.ibb.co/SxYsCSN/rmmnt30hfcw-02-500x500.webp",
+    "category": "Monitor",
+    "status": "In Stock",
+    "price": 199.99,
+    "description": "24-inch curved 1080p gaming monitor with 144Hz refresh rate",
+    "key_features": {
+      "brand": "ViewSonic",
+      "model": "VX2458-C-MHD",
+      "display_size": "24 inches",
+      "resolution": "1920 x 1080 (Full HD)",
+      "refresh_rate": "144Hz",
+      "panel_type": "VA",
+      "response_time": "1ms (GTG)",
+      "adaptive_sync": "AMD FreeSync",
+      "connectors": "DisplayPort, HDMI, VGA"
+    },
+    "individual_rating": 4.6,
+    "average_rating": 4.5,
+    "reviews": [
+      {
+        "username": "gamer456",
+        "rating": 4.7,
+        "comment": "Excellent value for a 144Hz curved monitor."
+      },
+      {
+        "username": "techpro55",
+        "rating": 4.5,
+        "comment": "Good budget-friendly gaming monitor."
+      }
+    ]
+  },
+  {
+    "product_name": "BenQ PD2700U",
+    "imgUrl": "https://i.ibb.co/N9BXQ4v/g27fc-500x500.jpg",
+    "category": "Monitor",
+    "status": "In Stock",
+    "price": 499.99,
+    "description": "27-inch 4K professional monitor for content creators and designers",
+    "key_features": {
+      "brand": "BenQ",
+      "model": "PD2700U",
+      "display_size": "27 inches",
+      "resolution": "3840 x 2160 (4K UHD)",
+      "refresh_rate": "60Hz",
+      "panel_type": "IPS",
+      "response_time": "5ms (GTG)",
+      "connectors": "DisplayPort, HDMI, USB-C"
+    },
+    "individual_rating": 4.9,
+    "average_rating": 4.8,
+    "reviews": [
+      {
+        "username": "gamerpro789",
+        "rating": 4.9,
+        "comment": "Excellent color accuracy for photo editing."
+      },
+      {
+        "username": "techsavvy55",
+        "rating": 4.8,
+        "comment": "Perfect for video editing and graphic design."
+      }
+    ]
+  },
+  {
+    "product_name": "Razer DeathAdder V2 Pro",
+    "imgUrl": "https://i.ibb.co/sVvrVFw/hades-m1-01-500x500.jpg",
+    "category": "Others",
+    "status": "In Stock",
+    "price": 129.99,
+    "description": "Wireless gaming mouse with Focus+ 20K DPI Optical Sensor",
+    "key_features": {
+      "brand": "Razer",
+      "model": "DeathAdder V2 Pro",
+      "dpi_range": "20,000 DPI",
+      "tracking_method": "Optical",
+      "polling_rate": "1000Hz",
+      "buttons": "8 programmable buttons",
+      "scroll_wheel": "Tactile",
+      "connectivity": "Wireless (2.4GHz)",
+      "special_features": "Razer Speedflex Cable, Razer Optical Mouse Switches"
+    },
+    "individual_rating": 4.8,
+    "average_rating": 4.7,
+    "reviews": [
+      {
+        "username": "gamerpro123",
+        "rating": 4.9,
+        "comment": "Perfect wireless performance for gaming."
+      },
+      {
+        "username": "techenthusiast55",
+        "rating": 4.7,
+        "comment": "The 20K DPI sensor is incredibly precise."
+      }
+    ]
+  },
+  {
+    "product_name": "Logitech G Pro Wireless",
+    "imgUrl": "https://i.ibb.co/xmv62w4/ms1017-01-500x500.jpg",
+    "category": "Others",
+    "status": "In Stock",
+    "price": 149.99,
+    "description": "Professional-grade wireless gaming mouse with HERO 25K DPI sensor",
+    "key_features": {
+      "brand": "Logitech",
+      "model": "G Pro Wireless",
+      "dpi_range": "25,600 DPI",
+      "tracking_method": "Optical",
+      "polling_rate": "1000Hz",
+      "buttons": "8 programmable buttons",
+      "scroll_wheel": "Tactile",
+      "connectivity": "Wireless (LIGHTSPEED)",
+      "special_features": "Ambidextrous design, PowerPlay wireless charging"
+    },
+    "individual_rating": 4.9,
+    "average_rating": 4.8,
+    "reviews": [
+      {
+        "username": "gamingenthusiast123",
+        "rating": 4.8,
+        "comment": "Excellent wireless performance for competitive gaming."
+      },
+      {
+        "username": "pcbuilderpro789",
+        "rating": 4.9,
+        "comment": "Perfect size and weight for precise aiming."
+      }
+    ]
+  },
+  {
+    "product_name": "SteelSeries Rival 600",
+    "imgUrl": "https://i.ibb.co/QDT5SHb/orion-500x500.jpg",
+    "category": "Others",
+    "status": "In Stock",
+    "price": 79.99,
+    "description": "Dual sensor gaming mouse with TrueMove3+ and customizable weights",
+    "key_features": {
+      "brand": "SteelSeries",
+      "model": "Rival 600",
+      "dpi_range": "12,000 DPI",
+      "tracking_method": "Optical",
+      "polling_rate": "1000Hz",
+      "buttons": "7 programmable buttons",
+      "scroll_wheel": "Tactile",
+      "connectivity": "Wired (USB)",
+      "special_features": "Weight system, Customizable RGB lighting"
+    },
+    "individual_rating": 4.7,
+    "average_rating": 4.6,
+    "reviews": [
+      {
+        "username": "gamer456",
+        "rating": 4.8,
+        "comment": "Great mouse for FPS gaming and comfortable grip."
+      },
+      {
+        "username": "techpro55",
+        "rating": 4.5,
+        "comment": "The customizable weight system is a nice touch."
+      }
+    ]
+  },
+  {
+    "product_name": "Corsair K95 RGB Platinum XT",
+    "imgUrl": "https://i.ibb.co/p4Bw4f9/rog-strix-flare-ii-01-500x500.webp",
+    "category": "Others",
+    "status": "In Stock",
+    "price": 199.99,
+    "description": "High-end mechanical gaming keyboard with per-key RGB lighting",
+    "key_features": {
+      "brand": "Corsair",
+      "model": "K95 RGB Platinum XT",
+      "switch_type": "Cherry MX Speed",
+      "backlighting": "Per-key RGB",
+      "key_rollover": "Full N-key Rollover",
+      "anti_ghosting": true,
+      "connectivity": "Wired (USB)",
+      "additional_ports": "USB passthrough",
+      "special_features": "Detachable wrist rest, Dedicated macro keys"
+    },
+    "individual_rating": 4.9,
+    "average_rating": 4.8,
+    "reviews": [
+      {
+        "username": "gamerpro123",
+        "rating": 4.8,
+        "comment": "Responsive and visually stunning keyboard."
+      },
+      {
+        "username": "techenthusiast55",
+        "rating": 4.9,
+        "comment": "Customizable lighting effects are amazing."
+      }
+    ]
+  },
+  {
+    "product_name": "Ducky One 2 Mini",
+    "imgUrl": "https://i.ibb.co/ZGhnNmL/g-pro-01-500x500.jpg",
+    "category": "Others",
+    "status": "In Stock",
+    "price": 119.99,
+    "description": "Compact 60% mechanical keyboard with PBT keycaps",
+    "key_features": {
+      "brand": "Ducky",
+      "model": "One 2 Mini",
+      "switch_type": "Cherry MX Red",
+      "backlighting": "Single-color LED",
+      "key_rollover": "Full N-key Rollover",
+      "anti_ghosting": true,
+      "connectivity": "Wired (USB Type-C)",
+      "special_features": "Detachable USB cable, Macro recording"
+    },
+    "individual_rating": 4.8,
+    "average_rating": 4.7,
+    "reviews": [
+      {
+        "username": "gamingenthusiast123",
+        "rating": 4.7,
+        "comment": "Perfect compact keyboard for gaming setups."
+      },
+      {
+        "username": "pcbuilderpro789",
+        "rating": 4.8,
+        "comment": "High-quality PBT keycaps and smooth switches."
+      }
+    ]
+  },
+  {
+    "product_name": "Logitech G915 Lightspeed",
+    "imgUrl": "https://i.ibb.co/4WCmqFw/huntsman-mini-1-500x500.jpg",
+    "category": "Others",
+    "status": "In Stock",
+    "price": 249.99,
+    "description": "Wireless mechanical gaming keyboard with low-profile switches",
+    "key_features": {
+      "brand": "Logitech",
+      "model": "G915 Lightspeed",
+      "switch_type": "GL Low Profile",
+      "backlighting": "Per-key RGB",
+      "key_rollover": "Full N-key Rollover",
+      "anti_ghosting": true,
+      "connectivity": "Wireless (LIGHTSPEED)",
+      "additional_ports": "USB passthrough",
+      "special_features": "Dedicated media controls, Aircraft-grade aluminum"
+    },
+    "individual_rating": 4.9,
+    "average_rating": 4.8,
+    "reviews": [
+      {
+        "username": "gamerpro123",
+        "rating": 4.8,
+        "comment": "Sleek and feature-packed wireless keyboard."
+      },
+      {
+        "username": "techenthusiast55",
+        "rating": 4.9,
+        "comment": "Low-profile switches are great for typing and gaming."
+      }
+    ]
+  },
+  {
+    "product_name": "NVIDIA GeForce RTX 3080",
+    "imgUrl": "https://i.ibb.co/LYWtG58/radeon-rx-550-01-500x500.jpg",
+    "category": "Others",
+    "status": "In Stock",
+    "price": 799.99,
+    "description": "High-performance gaming GPU for smooth 4K gaming",
+    "key_features": {
+      "brand": "NVIDIA",
+      "model": "GeForce RTX 3080",
+      "memory_size": "10GB GDDR6X",
+      "memory_interface": "320-bit",
+      "core_clock": "1440 MHz",
+      "boost_clock": "1710 MHz",
+      "ports": "3x DisplayPort, 1x HDMI",
+      "power_connector": "2x 8-pin",
+      "support": "Ray Tracing, DLSS 2.0"
+    },
+    "individual_rating": 4.9,
+    "average_rating": 4.8,
+    "reviews": [
+      {
+        "username": "gamerpro789",
+        "rating": 5,
+        "comment": "Beastly GPU for ultra settings at 4K resolution."
+      },
+      {
+        "username": "techsavvy55",
+        "rating": 4.8,
+        "comment": "Ray tracing performance is mind-blowing."
+      }
+    ]
+  },
+  {
+    "product_name": "AMD Radeon RX 6700 XT",
+    "imgUrl": "https://i.ibb.co/5FQ7FPq/rtx-3060-gaming-x-01-500x500.jpg",
+    "category": "Others",
+    "status": "In Stock",
+    "price": 499.99,
+    "description": "Powerful AMD GPU for high-refresh-rate gaming",
+    "key_features": {
+      "brand": "AMD",
+      "model": "Radeon RX 6700 XT",
+      "memory_size": "12GB GDDR6",
+      "memory_interface": "192-bit",
+      "core_clock": "2321 MHz",
+      "boost_clock": "2581 MHz",
+      "ports": "3x DisplayPort, 1x HDMI",
+      "power_connector": "2x 8-pin",
+      "support": "Radeon Anti-Lag, AMD FidelityFX"
+    },
+    "individual_rating": 4.8,
+    "average_rating": 4.7,
+    "reviews": [
+      {
+        "username": "gamer123",
+        "rating": 4.9,
+        "comment": "Great GPU for 1440p gaming with high FPS."
+      },
+      {
+        "username": "techguy55",
+        "rating": 4.7,
+        "comment": "AMD's features make a difference in gaming."
+      }
+    ]
+  },
+  {
+    "product_name": "MSI GeForce GTX 1660 Super Gaming X",
+    "imgUrl": "https://i.ibb.co/FxRrPsh/geforce-gtx-1650-nb-4gd6-v3-v-01-500x500.webp",
+    "category": "Others",
+    "status": "In Stock",
+    "price": 289.99,
+    "description": "Value-oriented GPU for 1080p gaming with low power consumption",
+    "key_features": {
+      "brand": "MSI",
+      "model": "GeForce GTX 1660 Super Gaming X",
+      "memory_size": "6GB GDDR6",
+      "memory_interface": "192-bit",
+      "core_clock": "1830 MHz",
+      "boost_clock": "1860 MHz",
+      "ports": "3x DisplayPort, 1x HDMI, 1x DVI-D",
+      "power_connector": "1x 8-pin",
+      "support": "NVIDIA Ansel, G-SYNC Compatible"
+    },
+    "individual_rating": 4.7,
+    "average_rating": 4.6,
+    "reviews": [
+      {
+        "username": "gamer456",
+        "rating": 4.8,
+        "comment": "Excellent budget GPU for 1080p gaming."
+      },
+      {
+        "username": "techpro55",
+        "rating": 4.5,
+        "comment": "Runs cool and quiet with great performance."
+      }
+    ]
+  },
+  {
+    "product_name": "Sony WH-1000XM4 Wireless Noise-Canceling Headphones",
+    "imgUrl": "https://i.ibb.co/yRp307V/futuretour-01-500x500.webp",
+    "category": "Others",
+    "status": "In Stock",
+    "price": 349.99,
+    "description": "Premium wireless headphones with industry-leading noise cancellation",
+    "key_features": {
+      "brand": "Sony",
+      "model": "WH-1000XM4",
+      "noise_cancellation": "Active Noise Canceling (ANC)",
+      "bluetooth_version": "5.0",
+      "battery_life": "Up to 30 hours",
+      "microphone": "Built-in microphone",
+      "sound_quality": "High-resolution audio",
+      "special_features": "Touch controls, Voice assistant support"
+    },
+    "individual_rating": 4.8,
+    "average_rating": 4.7,
+    "reviews": [
+      {
+        "username": "audiophile123",
+        "rating": 4.9,
+        "comment": "Unmatched noise cancellation and superb audio quality."
+      },
+      {
+        "username": "techenthusiast55",
+        "rating": 4.7,
+        "comment": "Comfortable for long listening sessions."
+      }
+    ]
+  },
+  {
+    "product_name": "Bose QuietComfort 35 II Wireless Headphones",
+    "imgUrl": "https://i.ibb.co/4NC4XS2/air-joy-plus-01-500x500.webp",
+    "category": "Others",
+    "status": "In Stock",
+    "price": 299.99,
+    "description": "Wireless headphones with world-class noise cancellation",
+    "key_features": {
+      "brand": "Bose",
+      "model": "QuietComfort 35 II",
+      "noise_cancellation": "Active Noise Canceling (ANC)",
+      "bluetooth_version": "4.1",
+      "battery_life": "Up to 20 hours",
+      "microphone": "Built-in microphone",
+      "sound_quality": "Clear audio performance",
+      "special_features": "Google Assistant, Alexa integration"
+    },
+    "individual_rating": 4.7,
+    "average_rating": 4.6,
+    "reviews": [
+      {
+        "username": "audiophile456",
+        "rating": 4.8,
+        "comment": "Bose's ANC is simply amazing."
+      },
+      {
+        "username": "techpro55",
+        "rating": 4.5,
+        "comment": "Very comfortable for extended use."
+      }
+    ]
+  },
+  {
+    "product_name": "Sennheiser HD 660 S Open-Back Headphones",
+    "imgUrl": "https://i.ibb.co/yQGDy3q/s605-01-500x500.webp",
+    "category": "Others",
+    "status": "In Stock",
+    "price": 499.99,
+    "description": "High-fidelity open-back headphones for audiophiles",
+    "key_features": {
+      "brand": "Sennheiser",
+      "model": "HD 660 S",
+      "design": "Open-back",
+      "impedance": "150 Ohms",
+      "frequency_response": "10Hz - 41kHz",
+      "connector": "3.5mm/6.3mm",
+      "sound_quality": "Natural and detailed audio",
+      "special_features": "Replaceable ear pads, Detachable cables"
+    },
+    "individual_rating": 4.9,
+    "average_rating": 4.8,
+    "reviews": [
+      {
+        "username": "audiophile789",
+        "rating": 5,
+        "comment": "Pure audio bliss for critical listening."
+      },
+      {
+        "username": "techsavvy55",
+        "rating": 4.8,
+        "comment": "Open-back design gives a spacious soundstage."
+      }
+    ]
+  }
+]
